@@ -36,6 +36,7 @@ Students must answer the following:
 # Activity 3A: Improving and Evaluating a Custom Image Classifier
 ## Guide Questions (Student Explanation & Reflection)
 Students must answer:
+
 Visualization & Overfitting
 
 1.What signs indicated overfitting in your first model?
