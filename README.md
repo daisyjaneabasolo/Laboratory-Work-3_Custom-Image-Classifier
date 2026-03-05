@@ -1,5 +1,7 @@
 # Laboratory-Work-3_Custom-Image-Classifier
 
+This is my COLAB (https://colab.research.google.com/drive/1MBYYc-FF_jP-tUiJtieioQ1V7SdrPSbh?usp=sharing)
+
 ## Guide Questions (Student Reflection & Explanation)
 Students must answer the following:
 1. Dataset Preparation
